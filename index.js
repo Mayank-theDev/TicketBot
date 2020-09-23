@@ -58,4 +58,4 @@ bot.on("ready", async () => {
   )})
 
 
-bot.login("");
+bot.login("NzU4Mzg1MTM2NjA5NTI1Nzgx.X2uLMg.vn-1aJSYIb2fTyXMgoNU0NWLPuY");
